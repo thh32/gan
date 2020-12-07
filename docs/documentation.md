@@ -11,7 +11,7 @@ Commands:
 
 ```bash
 # Create the environment (run it once)
-conda env create -f environment.yml
+conda env create -f environment.yaml
 
 # Activate the environment to use the scripts
 conda activate gan
